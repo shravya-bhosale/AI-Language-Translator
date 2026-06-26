@@ -14,6 +14,18 @@ AI Language Translator is a Python and Streamlit-based web application that tran
 - Streamlit
 - Deep Translator
 
+## Project Structure
+
+```
+AI-Language-Translator/
+│
+├── translator.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+
+```
+
 ## How to Run
 1. Install the required libraries:
    ```bash
